@@ -98,7 +98,7 @@
       n2,
       nr
     }
-    this.http.post('http://localhost/api/0.1/raffles', data).toPromise().then((res) => {
+    this.http.post('https://codetoolbox.com.br/api/0.1/raffles', data).toPromise().then((res) => {
       console.log(res);
     });
   } 
