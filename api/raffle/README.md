@@ -67,7 +67,7 @@
 
   <_This endpoint has some validations and error treatments as follow:_>
 
-  * **Code:** 422 UNPROCESSABLE ENTRY <br />
+  * **Code:** 422 UNPROCESSABLE ENTITY <br />
     **Content:** `null` <br />
     **Message:** `{ "message": "Final number is required!" }` <br />
     **Validation Message:** `{ "validations": "Field n2 cannot be null." }` <br />
